@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="greet">Bienvenue chez XYZ Enterprises</string>
+    <string name="go">Suivante</string>
+    <string name="eat">Vous êtes un pas de plus!</string>
+</resources>
